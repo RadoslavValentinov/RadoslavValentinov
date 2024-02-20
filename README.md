@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radoslav Hristov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
-<img aligh="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img aligh="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoslavhristov&label=Profile%20views&color=0e75b6&style=flat" alt="radoslavhristov" /> </p>
 
