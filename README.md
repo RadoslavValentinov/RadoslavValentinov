@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radoslav Hristov</h1>
-<h3 align="center">A passionate backend developer from Bulgaria.</h3>
-<img aligh="right" alt="Coding" width="1000" src="https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg">
+<h3 align="center">A passionate backend developer from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoslavhristov&label=Profile%20views&color=0e75b6&style=flat" alt="radoslavhristov" /> </p>
 
@@ -26,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radoslavhristov&show_icons=true&locale=en" alt="radoslavhristov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radoslavhristov&" alt="radoslavhristov" /></p>
-
