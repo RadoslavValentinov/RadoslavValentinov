@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radoslav Valentinov</h1>
-<h3 align="center">A passionate backend developer from Bulgaria</h3>
+<h3 align="center">A passionate backend developer from Bulgaria</h3> 
 <img width="900" src="https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg" alt="radoslavhristov" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoslavvalentinov&label=Profile%20views&color=0e75b6&style=flat" alt="radoslavvalentinov" /> </p>
