@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radoslav Valentinov</h1>
+<h1 align="center">Hi 👋, I'm Radoslav Hristov </h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3> 
 <img width="900" src="https://github.com/user-attachments/assets/ffd4a24f-6349-4702-838c-d7bbc8a144d2" alt="radoslavhristov" />
 
